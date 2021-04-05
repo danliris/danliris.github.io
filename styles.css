@@ -10991,9 +10991,9 @@ div.fixed-table-scroll-outer {
   border:0px;
 }
 
-td {
+/* td {
   white-space: pre;
-}
+} */
 /*
 Origin : https://github.com/wenzhixin/bootstrap-table-fixed-columns
 Need more improvement.
